@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 242257f56b0c35f42867280fcb1a9e4e
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: dff322ddd4226cc4883f72b09f6c0d56
+  - enabled: 1
+    path: Assets/Scenes/SpaceImpactReplica.unity
+    guid: 766f0b178e4930a45bc91392b6899e4f
+  - enabled: 0
+    path: 
+    guid: 7ccc84ba499f66f44a5c4729d7bb38c5
